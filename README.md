@@ -1,9 +1,8 @@
 ## Hi there 👋 I'm Mihreteab Yemane
 
-<!--
-**yemanmedhani-ml/yemanmedhani-ml** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Software Engineer (Java | Spring Boot | kafka | MySQL) || Data Scientist (Python | ML | AI) focused on building intelligent, production-ready systems.** 
+✨ Email Me ✨ **yemanemedhani@gmial.com** For Collaboration/ Project or Anything Else.
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,7 +12,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yemanmedhani@gmail.com) 
